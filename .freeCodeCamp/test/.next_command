@@ -115,3 +115,5 @@ q
 [[ 11 =~ ^[0-9]+$ ]]
 __vsc_prompt_cmd_original
 [[ ! 11 =~ ^[0-9]+$ ]]
+./bike-hsop.sh
+./bike-shop.sh
